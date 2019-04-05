@@ -11,4 +11,4 @@ Join Query Optimization, based on the subject of Programming Contest SIGMOD 2018
 ### Supervisors
 
 * Professor Yannis Ioannidis <yannis@di.uoa.gr>, University of Athens
-* Professor Assistant Svingos Christoforos <csvingos@di.uoa.gr>, University of Athens, Department of Informatics and Telecommunications
+* Professor Assistant Christoforos Svingos <csvingos@di.uoa.gr>, University of Athens, Department of Informatics and Telecommunications
